@@ -1,8 +1,8 @@
 Meta.DisplayName=SCPSL
 Meta.Description=test
 Meta.OS=Windows, Linux
-Meta.Author=Steve Myers
-Meta.URL=https://store.steampowered.com/app/700330/SCP_Secret_Laboratory/
+Meta.Author=Steve Myers Discord HeadHunter911#6237
+Meta.URL=https://github.com/smyers119/scpsl-cubecoder-amp
 Meta.DisplayImageSource=steam:700330
 Meta.EndpointURIFormat=steam://connect/{0}
 Meta.ConfigManifest=configmanifest.json
