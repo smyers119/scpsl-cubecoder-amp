@@ -17,4 +17,7 @@ INSTALL:
 
 - Copy and Paste the contents of GenericModule.kvp into GenericModule.kvp
 
+- Start the instance and Update then Run
+
+
 If you did everything right you should have a running SCP:SL server
